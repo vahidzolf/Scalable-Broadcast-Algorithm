@@ -2,7 +2,7 @@
 Implementing SBA (Scalable Broadcast Algorithm) Protocol with TinyOs
 
 
-##Steps to run with TOSSIM
+## Steps to run with TOSSIM
 
 **Step1:** Compiling nesC intended program by issuing the following command in directory and resolving all syntax errors.
 To compile TOSSIM, you have to pass the sim option to make: (it is not necessary to say that a Makefile should already exists) 
